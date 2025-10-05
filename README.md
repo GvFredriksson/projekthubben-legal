@@ -33,7 +33,9 @@ All our applications are designed with privacy in mind:
 
 ## 🏢 About Projekthubben AB
 
-Projekthubben AB is committed to creating simple, privacy-focused applications that respect your data and your time. We believe in building tools that help you without compromising your privacy.
+Projekthubben AB is committed to creating simple, privacy-focused mobile applications that respect your data and your time. We believe in building tools that help you without compromising your privacy.
+
+**Note:** This site only covers the apps and systems definied in this site. No other systems released by Projekthubben AB
 
 ---
 
